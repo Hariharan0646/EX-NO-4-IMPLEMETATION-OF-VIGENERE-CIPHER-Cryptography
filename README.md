@@ -1,6 +1,6 @@
 # EX-NO-4-IMPLEMETATION-OF-VIGENERE-CIPHER
- 
-
+## NAME: HARIHARAN S
+## REGNO: 2305001009
 ## AIM:
 
 To implement the Vigenere Cipher substitution technique using C program.
@@ -71,6 +71,8 @@ int main() {
 }
 ```
 ## OUTPUT
+<img width="424" height="210" alt="image" src="https://github.com/user-attachments/assets/4ecefb92-47b1-439f-a514-b9a470aaf119" />
+
 
 ## RESULT
 
